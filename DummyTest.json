@@ -1,0 +1,14 @@
+{
+    "body": [
+
+        {
+            "id": "01",
+            "username": "sample01",
+            "pin": "5158",
+            "accountNumber": "44583924",
+            "accountType": "Savings",
+            "accountBalance": "532.14"
+        }
+
+    ]
+}
